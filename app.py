@@ -115,7 +115,7 @@ CONFIG = {
         "COOKIE": None,
         "CF_CLEARANCE":os.environ.get("CF_CLEARANCE") or None,
         "PORT": int(os.environ.get("PORT", 5200)),
-        "BASE_URL": os.environ.get("BASE_URL", "https://deeme-grok.hf.space"),
+        "BASE_URL": os.environ.get("BASE_URL", "https://grok.168369.xyz"),
     },
     "RETRY": {
         "RETRYSWITCH": False,
